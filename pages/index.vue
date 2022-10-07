@@ -1,9 +1,11 @@
 <template>
-  <Tutorial />
+  <div>
+    <HorizontalCard/>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+    name: "IndexPage"
 }
 </script>
