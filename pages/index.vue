@@ -2,6 +2,7 @@
   <div>
     <HorizontalCard/>
     <VerticalCard/>
+    <CardSleketon/>
   </div>
 </template>
 
