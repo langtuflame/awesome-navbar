@@ -1,6 +1,7 @@
 <template>
   <div>
     <HorizontalCard/>
+    <VerticalCard/>
   </div>
 </template>
 
