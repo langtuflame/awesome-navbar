@@ -2,6 +2,7 @@
   <div>
     <HorizontalCard/>
     <VerticalCard/>
+    <CardSleketon/>
     <div class="flex items-center justify-center py-10">
       <SpinnerLoading />
     </div>
